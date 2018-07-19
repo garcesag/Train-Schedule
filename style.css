@@ -1,0 +1,15 @@
+body {
+    background: #bdbdbd;
+}
+
+form {
+    border: solid 4px #00000029;
+    border-radius: 10px;
+}
+#formHeader {
+    background: #00000029;
+    border-radius: 10px;
+}
+.display-4 {
+    text-align: center
+}
